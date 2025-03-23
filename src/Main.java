@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Set;
 
 public class Main {
-    private static final int LINE_OF_CODE = 100_000;
+    private static final int LINE_OF_CODE = 100_000_000;
     public static void main(String[] args) {
         final String instagram = "Instagram";
         final List<String> screenResolution = List.of("1170x2532",
